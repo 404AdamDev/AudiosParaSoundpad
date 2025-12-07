@@ -38,15 +38,7 @@ Ideal para manter o pack organizado e padronizado.
 ## 🎧 Requisitos
 
 -   SoundPad instalado\
--   Python 3.x (**apenas** se desejar usar o renomeador)
-
-------------------------------------------------------------------------
-
-## ✔️ Observações
-
--   Todos os áudios são organizados por tipo.
--   Você pode editar, remover ou adicionar mais sons.
--   O pack é totalmente personalizável.
+-   Python 3.13.5 (**apenas** se desejar usar o renomeador)
 
 ------------------------------------------------------------------------
 
